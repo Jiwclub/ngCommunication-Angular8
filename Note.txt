@@ -1,0 +1,6 @@
+interpolation (TS to HTML) เป็นการสื่อสารระหว่าง component เวลาใช้ {{}} แค่เป็นการเอาตัวแปรที่อยู่ใน ไฟล์TS มาแสดงใน html
+Input (Parent to Child Property Binding) สื่อสารจากแม่ไปลูกโดยการ input : Parent->Child การดักอีเว้น  (click)=""
+Output (Child to Parent Event Binding) ลูกส่งข้อมูลไปหาแม่
+ViewChild (Parent to Child) เข้าได้ทุกตัวขอตัวลูก
+Parent Injection (Child to Parent) ตัวลูกเข้าภถึงตัวแม่ได้ทุกอย่าง
+Service (Child to Child)
